@@ -1,0 +1,38 @@
+Privacy Policy for StoreShot
+Last Updated: April 19, 2026
+
+1. Introduction
+StoreShot ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome Extension.
+
+2. Information We Collect
+To provide our services, we only collect the minimum amount of data necessary:
+
+Identity Information: Your email address (collected via Gumroad) for premium license management.
+
+Authentication Information: Your license key to verify and activate premium features.
+
+Technical Data: Basic extension settings (e.g., your preferred device frames or background colors) which are stored locally in your browser.
+
+3. Image Processing (The "Local-First" Rule)
+Your privacy is our priority. * All image processing, mockup generation, and canvas rendering happen locally on your computer.
+
+We do NOT upload, store, or transmit your screenshots, images, or app data to any remote server. * Once you close the extension or download your image, the temporary data used for rendering is cleared.
+
+4. Data Usage
+We use the collected information solely to:
+
+Verify your "Premium" status.
+
+Provide customer support and license recovery.
+
+Save your UI preferences within the extension so you don't have to reset them each time.
+
+5. Third-Party Services
+We use Gumroad as our payment processor. When you purchase a license, your financial information (credit card, billing address) is handled exclusively by Gumroad. You can view their privacy policy on their official website.
+
+6. Data Security
+We implement industry-standard security measures to protect your local storage data and license information. We do not sell, trade, or rent your personal information to third parties.
+
+7. Contact Us
+If you have any questions regarding this Privacy Policy, please contact us at:
+ffnexusteam@gmail.com
